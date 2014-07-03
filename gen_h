@@ -1,0 +1,3 @@
+wsdl2h -o onvif.h -c \
+http://www.onvif.org/onvif/ver10/network/wsdl/remotediscovery.wsdl 
+
